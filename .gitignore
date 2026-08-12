@@ -1,0 +1,17 @@
+# Compiled executable
+bin/
+
+# Runtime data
+students.dat
+students.tmp
+
+# VS Code
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Debug files
+*.log
+*.tmp
